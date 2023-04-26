@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\POE FULL PART 1\POE FULL PART 1\bin\Debug\POE FULL PART 1.exe.config
+C:\Users\user\source\repos\POE FULL PART 1\POE FULL PART 1\bin\Debug\POE FULL PART 1.exe
+C:\Users\user\source\repos\POE FULL PART 1\POE FULL PART 1\bin\Debug\POE FULL PART 1.pdb
+C:\Users\user\source\repos\POE FULL PART 1\POE FULL PART 1\obj\Debug\POE FULL PART 1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\POE FULL PART 1\POE FULL PART 1\obj\Debug\POE FULL PART 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\POE FULL PART 1\POE FULL PART 1\obj\Debug\POE FULL PART 1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\POE FULL PART 1\POE FULL PART 1\obj\Debug\POE FULL PART 1.exe
+C:\Users\user\source\repos\POE FULL PART 1\POE FULL PART 1\obj\Debug\POE FULL PART 1.pdb
